@@ -1,0 +1,1 @@
+<script type='text/plain'>alert('coucou')</script>
