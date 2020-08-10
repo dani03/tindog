@@ -10,6 +10,10 @@ font-weight: bold;
 }
 .container-fluid{
   padding: 3% 15%;
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> update footer
 }
 body{
   font-family: 'Montserrat';
@@ -35,10 +39,21 @@ body{
 .image{
   width: 60%;
   transform: rotate(30deg);
+<<<<<<< HEAD
+=======
+  position: absolute;
+  z-index: 1;
+>>>>>>> update footer
   
 }
 #features{
   padding: 7% 15%;
+<<<<<<< HEAD
+=======
+  background-color: white;
+  z-index: 1;
+  position: relative;
+>>>>>>> update footer
 }
 .icone{
   text-align: center;
@@ -93,4 +108,37 @@ h2{
 }
 .pricing-column{
   padding-top: 10% 2%;
+<<<<<<< HEAD
+=======
+}
+
+@media (max-width: 990px ){
+  #title {
+    text-align: center;
+  }
+  .image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+#cta h3 {
+  font-family: 'Montserrat-black';
+  text-align: center;
+  font-size: 2.5rem;
+  color: white;
+
+}
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+.social {
+  margin: 20px 10px;
+  color: skyblue;
+>>>>>>> update footer
 }
